@@ -232,13 +232,6 @@ A results-driven IT Support Engineer with 3+ years of experience in Desktop Supp
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harishsanjayg&show_icons=true&locale=en&theme=tokyonight" alt="Harish Sanjay GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harishsanjayg&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Harish Sanjay Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishsanjayg&theme=tokyonight" alt="Harish Sanjay GitHub Streak" />
