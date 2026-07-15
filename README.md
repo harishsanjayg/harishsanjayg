@@ -1,27 +1,249 @@
-<h1 align="center">Hello👋, I'm Harish Sanjay G</h1>
-<h3 align="center">A passionate in Technical Support from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hi 👋, I'm Harish Sanjay G</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harishsanjayg&label=Profile%20views&color=0e75b6&style=flat" alt="harishsanjayg" /> </p>
+<h3 align="center">
+IT Support & Desktop Support Engineer L2 | Active Directory | Networking | ITSM
+</h3>
 
-- 🔭 I’m currently working on **Royal Enfield**
-
-- 🌱 I’m currently learning **Python , Server ,Networking**
-
-- 📫 How to reach me **harishsanjay2001@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harishsanjayg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harishsanjayg" height="30" width="40" /></a>
-<a href="https://fb.com/harishsanjay.g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harishsanjay.g" height="30" width="40" /></a>
-<a href="https://instagram.com/harishsanjayg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harishsanjayg" height="30" width="40" /></a>
+<p align="center">
+A results-driven IT Support Engineer with 3+ years of experience in Desktop Support, Network Troubleshooting, Active Directory Administration, ITSM Operations, and Enterprise End-User Support.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img align="right" alt="IT Support Engineer" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harishsanjayg&show_icons=true&locale=en&layout=compact" alt="harishsanjayg" /></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=harishsanjayg&label=Profile%20Views&color=0e75b6&style=flat" alt="harishsanjayg" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harishsanjayg&show_icons=true&locale=en" alt="harishsanjayg" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harishsanjayg&" alt="harishsanjayg" /></p>
+* 💼 Experienced as an **IT Support & Desktop Support Engineer L2**
+* 🏢 Enterprise support experience with **Royal Enfield, SBI, and Titan Company**
+* 👥 Supported **600+ enterprise users** in large-scale IT environments
+* 🛠️ Experienced in **L1/L2 Desktop Support, Active Directory, Networking, ITSM, and Hardware Support**
+* 🌱 Currently enhancing my skills in **Python, Server Administration, Networking, Cloud Technologies, and Cybersecurity**
+* 🎯 Passionate about **IT Infrastructure, System Administration, Network Support, and Technical Troubleshooting**
+* 🏆 Achieved **99% User Satisfaction** and maintained a **90%+ First-Call Resolution Rate**
+* 📫 Reach me at **[harishsanjay2001@gmail.com](mailto:harishsanjay2001@gmail.com)**
+
+<br clear="right"/>
+
+## 🛠️ Technical Skills
+
+### 💻 Operating Systems
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="45" height="45"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macOS" width="45" height="45"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="45" height="45"/>
+</p>
+
+* Windows 7 / 8 / 10 / 11
+* macOS
+* Linux / Ubuntu
+* OS Installation, Reimaging, Configuration & Troubleshooting
+
+### 🌐 Networking
+
+* LAN / WAN
+* TCP/IP
+* DNS
+* DHCP
+* IP Configuration
+* Network Connectivity Troubleshooting
+* Network Incident Resolution
+
+### 🏢 Active Directory & Enterprise Administration
+
+* Active Directory User Account Management
+* Organizational Unit (OU) Administration
+* Group Policy (GPO)
+* Access Permissions
+* User Account & Password Support
+* Enterprise End-User Administration
+
+### 🎫 ITSM & Ticketing
+
+* ServiceNow
+* ManageEngine
+* ITIL Processes
+* Incident Management
+* Change Management
+* SLA Management
+* P1 / P2 Incident Escalation
+* Root Cause Analysis
+* Knowledge Base Documentation
+
+### 🖥️ Hardware & Desktop Support
+
+* Desktop & Laptop Troubleshooting
+* Hardware Assembly
+* Printer & Peripheral Setup
+* Preventive Maintenance
+* IT Asset Management
+* Software Installation
+* Patch Updates
+* Remote Desktop Support
+
+### 🔧 Enterprise Tools
+
+* Microsoft Office 365
+* Microsoft Outlook
+* Remote Desktop Protocol (RDP)
+* SCCM
+* Antivirus Management
+* ServiceNow
+* ManageEngine
+
+---
+
+## 💼 Professional Experience
+
+### 🖥️ Desktop Support Engineer L2
+
+**Sysnet Global Technologies**
+**Client: Kyndryl | Royal Enfield**
+
+* Provided L1/L2 desktop support to **300+ end-users**
+* Resolved hardware, software, and network incidents within SLA timelines
+* Reduced incident resolution time by **20%** through proactive troubleshooting
+* Coordinated with L2/L3 teams for critical technical escalations
+* Performed OS reimaging, software installation, and patch updates
+* Supported enterprise IT infrastructure and end-user computing environments
+
+### 💻 Desktop Support Engineer L1
+
+**Fidelis Technology Services Pvt. Ltd.**
+**Client: Kyndryl | Royal Enfield**
+
+* Delivered technical support for hardware, software, and networking issues
+* Achieved a **99% user satisfaction score**
+* Administered Active Directory environments supporting **600+ users**
+* Managed user accounts, OU structures, Group Policies, and access permissions
+* Handled P1/P2 incident escalations through ServiceNow
+* Managed DNS, DHCP, and IP configurations
+* Reduced incident resolution time through proactive troubleshooting and root cause analysis
+
+### 🔧 IT Technical Support Engineer
+
+**CMS IT Services Company**
+**Clients: SBI | Titan Company, Mumbai**
+
+* Provided hardware and software support for enterprise environments
+* Installed and troubleshot Windows OS and Microsoft Office 365
+* Supported desktops, laptops, printers, peripherals, and network infrastructure
+* Maintained IT asset documentation for **800+ assets**
+* Diagnosed and resolved LAN/WAN connectivity issues
+* Trained **50+ end-users** on software usage, security best practices, and self-service troubleshooting
+
+---
+
+## 🏆 Key Achievements
+
+* 🥇 Maintained a **90%+ First-Call Resolution (FCR) Rate**
+* ⚡ Reduced average ticket resolution time by **25%**
+* ⭐ Achieved a **99% User Satisfaction Rating**
+* 👥 Successfully supported **600+ enterprise users**
+* 🔧 Managed and documented **800+ IT assets**
+* 🎓 Trained **50+ end-users** on software and IT security best practices
+* 🏅 Recognized for troubleshooting accuracy and excellent customer support
+
+---
+
+## 🎓 Education
+
+### Bachelor of Engineering (B.E.) – Computer Science Engineering
+
+**St. Joseph College of Engineering | 2022**
+
+* CGPA: **7.97**
+* Percentage: **79%**
+
+---
+
+## 📜 Certifications
+
+* 🌐 **Cisco Certified Network Associate (CCNA)** — Cisco | 2020
+* 💻 **Full Stack Developer Certification** — Q Spider Technologies | 2022
+
+---
+
+## 🚀 Project
+
+### 🫀 Prediction of Heart Disease Using Neural Networks
+
+* Developed a Machine Learning model for predictive health analytics
+* Used **Neural Networks** and **K-Nearest Neighbours (KNN)**
+* Applied feature engineering and hyperparameter optimization
+* Improved prediction accuracy by **15% over baseline models**
+
+---
+
+## 💻 Programming & Development
+
+<p align="left">
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+</a>
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="45" height="45"/>
+</a>
+
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
+</a>
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/harishsanjayg" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45"/>
+</a>
+
+<a href="https://fb.com/harishsanjay.g" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="45"/>
+</a>
+
+<a href="https://instagram.com/harishsanjayg" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harishsanjayg&show_icons=true&locale=en&theme=tokyonight" alt="Harish Sanjay GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harishsanjayg&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Harish Sanjay Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishsanjayg&theme=tokyonight" alt="Harish Sanjay GitHub Streak" />
+</p>
+
+---
+
+<h3 align="center">💡 "Solving IT problems, supporting users, and continuously learning new technologies."</h3>
